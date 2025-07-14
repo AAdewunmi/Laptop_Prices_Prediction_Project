@@ -1,0 +1,98 @@
+# Python
+############
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.Python/
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.manifest
+*.spec
+
+# Virtual Environment
+#####################
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+##################
+.ipynb_checkpoints
+.ipynb_checkpoints/
+*.ipynb
+!*.ipynb # Uncomment this line if you want to track notebooks, but ignore checkpoints
+# Or, if you want to ignore all notebooks:
+# *.ipynb
+
+# VS Code
+#########
+.vscode/
+# Uncomment the following line if you want to ignore the workspace file
+# *.code-workspace
+
+# OS and Editor Specific Files
+##############################
+.DS_Store
+Thumbs.db
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Logs and Data
+###############
+*.log
+*.temp
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+
+# Database files
+################
+*.sqlite3
+*.db
+
+# Pytest cache
+##############
+.pytest_cache/
+
+# Coverage reports
+##################
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+
+# MyPy
+######
+.mypy_cache/
+
+# Compiled files
+################
+*.so
+*.dll
+*.dylib
+
+# Specific to your project (add as needed)
+#########################################
+# laptoppricepredictor.pkl
+# data/
+# output/
