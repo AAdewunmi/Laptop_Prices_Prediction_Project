@@ -56,7 +56,7 @@ This project predicts laptop prices based on various features using supervised m
 ### Installation
 
 ```sh
-pip install -r [requirements.txt](http://_vscodecontentref_/4)
+pip install -r requirements.txt
 ```
 
 ## Usage
