@@ -59,25 +59,25 @@ This project predicts laptop prices based on various features using supervised m
 pip install -r [requirements.txt](http://_vscodecontentref_/4)
 ```
 
-### Usage
+## Usage
 
 - Open Laptop_Price_Predictor.ipynb in Jupyter or VSCode.
 - Run cells sequentially to reproduce the analysis and model training.
 - Trained models and processed data are saved in sample_data/Trained_Model/.
 
-### Data
+## Data
 
 - The dataset is located at sample_data/laptop_data.csv.
 
-### Results
+## Results
 
 - Multiple regression models are compared.
 - The best-performing model is saved as pipe.pkl and laptoppricepredictor.pkl.
 - Visualizations show feature importance and prediction accuracy.
 
-### License
+## License
 
 - This project is licensed under the MIT License. See LICENSE for details.
 
-### Author
+## Author
 Adrian Adewunmi
